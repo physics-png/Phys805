@@ -1,0 +1,39 @@
+{
+  "os":  "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "python":  "CPython 3.10.12",
+  "startedAt":  "2025-09-22T22:03:02.240565Z",
+  "program":  "/mnt/c/Users/alici/Documents/GradSchool/Phys805/Assignments/Assg1/wandb.ipynb",
+  "codePath":  "Assignments/Assg1/wandb.ipynb",
+  "codePathLocal":  "wandb.ipynb",
+  "git":  {
+    "remote":  "https://github.com/physics-png/Phys805.git",
+    "commit":  "6858ef4096cb337e80a9666c72dd18371082c01d"
+  },
+  "email":  "alicia.mand.aem@gmail.com",
+  "root":  "/mnt/c/Users/alici/Documents/GradSchool/Phys805/Assignments/Assg1",
+  "host":  "Alicia-Dell",
+  "executable":  "/bin/python3",
+  "cpu_count":  10,
+  "cpu_count_logical":  20,
+  "gpu":  "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1081101176832",
+      "used":  "60708700160"
+    }
+  },
+  "memory":  {
+    "total":  "8152854528"
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+      "memoryTotal":  "4294967296",
+      "architecture":  "Ampere",
+      "uuid":  "GPU-da81ba83-7b9b-4006-abb4-305f6d9abcdb"
+    }
+  ],
+  "cudaVersion":  "12.9",
+  "writerId":  "veiguqsni3uf2nbwna9uvjle6xr16wzs"
+}
